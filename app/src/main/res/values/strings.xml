@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TextRPG</string>
+
+    <!-- Main Action Button -->
+    <string name="btn_attack">Attack</string>
+    <string name="btn_block">Block</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_magic">Magic</string>
 </resources>
