@@ -6,4 +6,10 @@
     <string name="btn_block">Block</string>
     <string name="btn_skip">Skip</string>
     <string name="btn_magic">Magic</string>
+
+    <!-- Main Menu Button -->
+    <string name="btn_select_opponents">Select Opponents</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
